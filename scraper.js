@@ -31,7 +31,7 @@
 				var command = {
 					"keyword": keyword,
 					"params": params,
-					"id": $(anchor).attr("href")
+					"anchor": $(anchor).attr("href")
 				};
 
 				docData.push(command);
