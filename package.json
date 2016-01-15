@@ -1,0 +1,23 @@
+{
+  "name": "haproxy-doc-scraper-jquery-plugin",
+  "version": "1.0.0",
+  "description": "This is a simple jQuery plugin, which scrapes the HAProxy configuration manual and returns the relevant data in JSON format",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haproxyhq/doc-scraper.git"
+  },
+  "keywords": [
+    "haproxy",
+    "jquery-plugin"
+  ],
+  "author": "jdepoix <haproxyhq@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haproxyhq/doc-scraper/issues"
+  },
+  "homepage": "https://github.com/haproxyhq/doc-scraper#readme"
+}
