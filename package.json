@@ -1,6 +1,6 @@
 {
   "name": "haproxy-doc-scraper-jquery-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple jQuery plugin, which scrapes the HAProxy configuration manual and returns the relevant data in JSON format",
   "main": "scraper.js",
   "scripts": {

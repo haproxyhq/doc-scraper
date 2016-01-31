@@ -9,7 +9,10 @@
 			function loadDocPage() {
 				$.ajax({
 					url: url,
-					success: initVirtualDom
+					success: initVirtualDom,
+					error: function() {
+						callback([]);
+					}
 				});
 			}
 
