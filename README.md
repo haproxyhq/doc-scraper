@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/haproxy-doc-scraper-jquery-plugin.svg)](https://badge.fury.io/js/haproxy-doc-scraper-jquery-plugin)
+
 #HAProxyHQ/DocScraper
 This is a simple jQuery plugin, which scrapes the HAProxy configuration manual and returns the relevant data in JSON format. You could use this data to provide a simple autocompletion for a HAProxy config file.
 
